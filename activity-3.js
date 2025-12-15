@@ -6,7 +6,7 @@ function add(a, b) {
     return a + b;
 }
 // Convert to arrow function:
-
+const 
 
 // Problem 2
 function multiply(x, y) {
